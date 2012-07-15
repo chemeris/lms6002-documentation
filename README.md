@@ -17,3 +17,21 @@ Contents
 [2]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Programming%20and%20Calibration%20Guide-1.1r1.pdf
 [3]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Quick%20Starter%20Manual-EVB_5_r2.3.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
+
+Projects
+--------
+
+Below is a list of open-source projects built with the LMS6002D chip:
+ * [UmTRX][] - an dual-channel transceiver with 1GbE interface.
+
+Let me know if you develop something awesome with LMS6002D and get a credit line here!
+
+[UmTRX]: http://code.google.com/p/umtrx/
+
+Contacts
+--------
+
+If you need more information to develop your open-source project - let me know and I'll try to get it published here as well.
+
+-- Alexander Chemeris &lt;Alexander.Chemeris@fairwaves.ru&gt;
+
