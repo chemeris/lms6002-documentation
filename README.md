@@ -6,6 +6,15 @@ Info
 
 This documentation is released by Lime Microsystems for the benefit of open-source community. You're free to use it without signing an NDA with Lime Microsystems as long as you develop and open-source project.
 
+Official web-site of Lime Microsystems: http://www.limemicro.com
+
+
+Why LMS6002D?
+-------------
+
+Because up to my knowledge it's the only highly-integrated wide-band transceiver chip which is friendly to open-source software and open-source hardware. Lime Microsystems support for open-source is not ideal, but they're making great effort to do better. This documentation repository is a part of this effort.
+
+
 Contents
 --------
 
@@ -22,6 +31,7 @@ Contents
 [5]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Improving%20transceiver%20performance%20using%20digital%20techniques-1.0r1.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
 
+
 Projects
 --------
 
@@ -31,6 +41,7 @@ Below is a list of open-source projects built with the LMS6002D chip:
 Let me know if you develop something awesome with LMS6002D and get a credit line here!
 
 [UmTRX]: http://code.google.com/p/umtrx/
+
 
 Contacts
 --------
