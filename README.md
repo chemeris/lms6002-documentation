@@ -23,12 +23,14 @@ Contents
  * [LMS6002Dr2-Quick Starter Manual-EVB_5_r2.3.pdf][3] (11 May 2012) - Quick Starter Manual for the [LMS6002D evaluation board][EVB]. Contains useful instructions for manual LO leakage and I/Q imbalance calibration.
  * [LMS6002D-FAQ-1.0r7.pdf][4] (16 July 2012) - Answers to Frequency Asked Questions. Don't miss this.
  * [LMS6002Dr2-Improving transceiver performance using digital techniques-1.0r1.pdf][5] - Shows how to cancel TX LO leakage and compensate RX IP2 and TX I/Q imbalance in baseband.
+ * [LMS6002D-Temperature testing July 2011.pdf][6] - Measurements of the chip performance vs. temperature and frequency.
 
 [1]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-DataSheet-1.2r0.pdf
 [2]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Programming%20and%20Calibration%20Guide-1.1r1.pdf
 [3]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Quick%20Starter%20Manual-EVB_5_r2.3.pdf
 [4]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002D-FAQ-1.0r7.pdf
 [5]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Improving%20transceiver%20performance%20using%20digital%20techniques-1.0r1.pdf
+[6]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002D-Temperature%20testing%20July%202011.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
 
 
