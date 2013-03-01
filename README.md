@@ -41,10 +41,12 @@ Projects
 
 Below is a list of open-source projects built with the LMS6002D chip:
  * [UmTRX][] - an dual-channel transceiver with 1GbE interface.
+ * [BladeRF][] - USB 3.0 Superspeed Software Defined Radio.
 
 Let me know if you develop something awesome with LMS6002D and get a credit line here!
 
 [UmTRX]: http://code.google.com/p/umtrx/
+[BladeRF]: http://nuand.com/
 
 
 Contacts
