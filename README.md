@@ -7,6 +7,7 @@ Info
 This documentation is released by Lime Microsystems for the benefit of open-source community. You're free to use it without signing an NDA with Lime Microsystems as long as you develop and open-source project.
 
 Official web-site of Lime Microsystems: http://www.limemicro.com
+Official support mailing list for open-source projects: https://groups.google.com/forum/?fromgroups=#!forum/limemicro-opensource
 
 
 Why LMS6002D?
@@ -40,13 +41,15 @@ Projects
 --------
 
 Below is a list of open-source projects built with the LMS6002D chip:
- * [UmTRX][] - an dual-channel transceiver with 1GbE interface.
- * [BladeRF][] - USB 3.0 Superspeed Software Defined Radio.
+ * [UmTRX][] - a dual-channel transceiver with 1GbE interface from Fairwaves.
+ * [BladeRF][] - a USB 3.0 Superspeed Software Defined Radio from Nuand.
+ * [MyriadRF][] - a reference/prototype RF frontend from Lime Microsystems.
 
 Let me know if you develop something awesome with LMS6002D and get a credit line here!
 
 [UmTRX]: http://code.google.com/p/umtrx/
 [BladeRF]: http://nuand.com/
+[MyriadRF]: http://myriadrf.org/
 
 
 Contacts
