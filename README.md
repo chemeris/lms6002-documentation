@@ -7,6 +7,7 @@ Info
 This documentation is released by Lime Microsystems for the benefit of open-source community. You're free to use it without signing an NDA with Lime Microsystems as long as you develop and open-source project.
 
 Official web-site of Lime Microsystems: http://www.limemicro.com
+
 Official support mailing list for open-source projects: https://groups.google.com/forum/?fromgroups=#!forum/limemicro-opensource
 
 
