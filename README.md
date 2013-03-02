@@ -60,5 +60,5 @@ If you need more information to develop your open-source project - write to [the
 
 [lime-ml]: https://groups.google.com/forum/?fromgroups=#!forum/limemicro-opensource
 
--- Alexander Chemeris &lt;Alexander.Chemeris@fairwaves.ru&gt;
+-- Alexander Chemeris &lt;Alexander.Chemeris@gmail.com&gt;
 
