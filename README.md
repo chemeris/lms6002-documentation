@@ -56,7 +56,9 @@ Let me know if you develop something awesome with LMS6002D and get a credit line
 Contacts
 --------
 
-If you need more information to develop your open-source project - let me know and I'll try to get it published here as well.
+If you need more information to develop your open-source project - write to [the LimeMicro open-source support mailing list][lime-ml].
+
+[lime-ml]: https://groups.google.com/forum/?fromgroups=#!forum/limemicro-opensource
 
 -- Alexander Chemeris &lt;Alexander.Chemeris@fairwaves.ru&gt;
 
