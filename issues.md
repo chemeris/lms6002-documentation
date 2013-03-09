@@ -14,11 +14,11 @@ iRXEN = RXEN and SRXEN
  7. Envelop detector is in fact peak detector of peak detector, it shows IQ imbalance (phase/gain error). Unfortunately, its dynamic range limits its use as a calibration tool.
  8. LOOPBBEN register is not specified entirely in the documentation. Check the "LMS6002D IF-RF LoopBack Options.pdf" for a diagram of its connections and the values below for details about controlling it. To use BB loopback you must power down the stage preceding to the one you're connecting loopback to.
 <pre>
-LOOPBBEN[1:0]: Base band loop back switches control
-    00 – All switched open (default)
-    01 – provides TXLPF output to base band loop back
-    10 – provides TXVGA1 output to base band loop back
-    11 – provides envelop/peak detector output to base band loop back
+LOOPBBEN[1:0]: Baseband loopback switches control
+    00 – All switches are open (default)
+    01 – provides TXLPF output to baseband loopback
+    10 – provides TXVGA1 output to baseband loopback
+    11 – provides envelop/peak detector output to baseband loopback
 </pre>
 
 Contacts
