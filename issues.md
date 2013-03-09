@@ -9,6 +9,17 @@ Datasheet 1.2r0
 iTXEN = TXEN and STXEN
 iRXEN = RXEN and SRXEN
 </pre>
+ 5. RXTIA is a synonim for RXVGA1. TIA stands for Trans Impedance Amplifier. That was the initial block name but changed later to RX VGA1 for simplicity. "RX TIA" may still be used somewhere in the documents.
+ 6. Peak detector measures signal level at the TX output. The idea was to use it for TX LO leakage calibration but its dynamic range is not good enough. Even uncalibrated TX chain produces LO leakage of about -40dBm which is out of the on chip detector range.
+ 7. Envelop detector is in fact peak detector of peak detector, it shows IQ imbalance (phase/gain error). Unfortunately, its dynamic range limits its use as a calibration tool.
+ 8. LOOPBBEN register is not specified entirely in the documentation. Check the "LMS6002D IF-RF LoopBack Options.pdf" for a diagram of its connections and the values below for details about controlling it. To use BB loopback you must power down the stage preceding to the one you're connecting loopback to.
+<pre>
+LOOPBBEN[1:0]: Base band loop back switches control
+    00 – All switched open (default)
+    01 – provides TXLPF output to base band loop back
+    10 – provides TXVGA1 output to base band loop back
+    11 – provides envelop/peak detector output to base band loop back
+</pre>
 
 Contacts
 --------
