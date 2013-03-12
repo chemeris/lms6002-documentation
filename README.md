@@ -28,6 +28,7 @@ Contents
  * [LMS6002D-Temperature testing July 2011.pdf][6] - Measurements of the chip performance vs. temperature and frequency.
  * [LMS6002Dr2-RF LoopBack Response.pdf][7] - The document shows the frequency response of different RF Loopback. Adjusting the Tx/Rx gain stages you can make the frequency response to be flat up to 2.9 GHz for LNA1/2.
  * [LMS6002D IF-RF LoopBack Options.pdf][8] - A diagram showing baseband loopback connection options.
+ * [LPF IF BW vs RCCAL_LPF.pdf][9] - Shows dependency between the LPF bandwidth and RCCAL_LPF (0x36[6-4]) values for the 750kHz filter.
 
 [1]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-DataSheet-1.2r0.pdf
 [2]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-Programming%20and%20Calibration%20Guide-1.1r1.pdf
@@ -37,6 +38,7 @@ Contents
 [6]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002D-Temperature%20testing%20July%202011.pdf
 [7]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002Dr2-RF%20LoopBack%20Response.pdf
 [8]: https://github.com/chemeris/lms6002-documentation/raw/master/LMS6002D%20IF-RF%20LoopBack%20Options.pdf
+[9]: https://github.com/chemeris/lms6002-documentation/raw/master/LPF%20IF%20BW%20vs%20RCCAL_LPF.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
 
 
